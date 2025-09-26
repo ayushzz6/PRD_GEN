@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 import os
 import time
 
+
 load_dotenv()
 
 st.set_page_config(page_title="PRD Generator", layout="wide")
